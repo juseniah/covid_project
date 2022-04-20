@@ -3,7 +3,7 @@
 
 This is a personal data analysis project on a COVID-19 data set provided by Our World in Data. Click the URL below to launch an interactive environment.
 
-Using this data, we will attempt to answer the following questions:
+Using this data, we will answer the following questions:
 
 1. In which countries is COVID-19 the biggest problem proportionate to population?
 2. How is each continent faring with COVID-19?
